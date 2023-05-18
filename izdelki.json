@@ -3,152 +3,152 @@
       {
         "id" : 1,
         "name": "The Art of War",
-        "picture": "asdf",
-        "price": 10
+        "picture": "izdelkiSlike/knjiga1.jpg",
+        "price": 5.99
       },
       {
         "id" : 2,
         "name": "The Book of Enoch",
-        "picture": "asdf",
-        "price": 10
+        "picture": "izdelkiSlike/knjiga2.png",
+        "price": 10.99
       },
       {
         "id" : 3,
         "name": "Great Dialogues of Plato",
-        "picture": "asdf",
-        "price": 10
+        "picture": "izdelkiSlike/knjiga3.png",
+        "price": 5.99
       },
       {
         "id" : 4,
         "name": "The Ten Books on Architecture",
-        "picture": "asdf",
-        "price": 10
+        "picture": "izdelkiSlike/knjiga4.png",
+        "price": 10.99
       },
       {
         "id" : 5,
         "name": "Meditations",
-        "picture": "asdf",
-        "price": 10
+        "picture": "izdelkiSlike/knjiga5.png",
+        "price": 7.99
       },
       {
         "id" : 6,
         "name": "The Symposium",
-        "picture": "asdf",
-        "price": 10
+        "picture": "izdelkiSlike/knjiga6.jpg",
+        "price": 7.99
       },
       {
         "id" : 7,
         "name": "The Swerve: How the World Became Modern",
-        "picture": "asdf",
-        "price": 10
+        "picture": "izdelkiSlike/knjiga7.png",
+        "price": 10.99
       },
       {
         "id" : 8,
         "name": "The Last Days of Socrates",
-        "picture": "asdf",
-        "price": 10
+        "picture": "izdelkiSlike/knjiga8.png",
+        "price": 5.99
       },
       {
         "id" : 9,
         "name": "The Analects",
-        "picture": "asdf",
-        "price": 10
+        "picture": "izdelkiSlike/knjiga9.png",
+        "price": 10.99
       },
       {
         "id" : 10,
         "name": "The Socratic Method: A Practitioner's Handbook",
-        "picture": "asdf",
-        "price": 10
+        "picture": "izdelkiSlike/knjiga10.png",
+        "price": 14.99
       },
       {
         "id" : 11,
         "name": "The Prince",
-        "picture": "asdf",
-        "price": 10
+        "picture": "izdelkiSlike/knjiga11.png",
+        "price": 5.99
       },
       {
         "id" : 12,
         "name": "The Odyssey",
-        "picture": "asdf",
-        "price": 10
+        "picture": "izdelkiSlike/knjiga12.png",
+        "price": 7.99
       },
       {
         "id" : 13,
         "name": "Phaedrus",
-        "picture": "asdf",
-        "price": 10
+        "picture": "izdelkiSlike/knjiga13.png",
+        "price": 17.99
       },
       {
         "id" : 14,
         "name": "The Allegory of the Cave",
-        "picture": "asdf",
-        "price": 10
+        "picture": "izdelkiSlike/knjiga14.png",
+        "price": 3.99
       },
       {
         "id" : 15,
         "name" : "The Two Babylons",
-        "picture": "asdf",
-        "price": 10
+        "picture": "izdelkiSlike/knjiga15.png",
+        "price": 7.99
       },
       {
         "id" : 16,
         "name": "Morals and Dogma",
-        "picture": "asdd",
-        "price": 10
+        "picture": "izdelkiSlike/knjiga16.pn",
+        "price": 10.99
       },
       {
         "id" : 17,
         "name": "Ancient Gnosticism: Traditions and Literature",
-        "picture": "asdf",
-        "price": 10
+        "picture": "izdelkiSlike/knjiga17.png",
+        "price": 5.99
       },
       {
         "id" : 18,
         "name": "Pre-Christian Gnosticism: A Survey of the Proposed Evidences",
-        "picture": "asdf",
-        "price": 10
+        "picture": "izdelkiSlike/knjiga18.png",
+        "price": 10.99
       },
       {
         "id" : 19,
         "name": "Oera Linda Book",
-        "picture": "asdf",
-        "price": 10
+        "picture": "izdelkiSlike/knjiga19.png",
+        "price": 7.99
       },
       {
         "id" : 20,
-        "name": "",
-        "picture": "asdf",
-        "price": 10
+        "name": "The Epic of Gilgamesh",
+        "picture": "izdelkiSlike/knjiga20.png",
+        "price": 13.99
       },
       {
         "id" : 21,
-        "name": "",
-        "picture": "asdf",
-        "price": 10
+        "name": "The Key of Solomon The King",
+        "picture": "izdelkiSlike/knjiga21.png",
+        "price": 12.99
       },
       {
         "id" : 22,
-        "name": "",
-        "picture": "asdf",
-        "price": 10
+        "name": "The Art of Rethoric",
+        "picture": "izdelkiSlike/knjiga22.png",
+        "price": 9.99
       },
       {
         "id" : 23,
-        "name": "",
-        "picture": "asdf",
-        "price": 10
+        "name": "Fragments",
+        "picture": "izdelkiSlike/knjiga23.png",
+        "price": 6.99
       },
       {
         "id" : 24,
-        "name": "",
-        "picture": "asdf",
-        "price": 10
+        "name": "The Philosophy of Epicurus",
+        "picture": "izdelkiSlike/knjiga24.png",
+        "price": 10.99
       },
       {
         "id" : 25,
-        "name": "",
-        "picture": "asdf",
-        "price": 10
+        "name": "The creature from Jekyll Island",
+        "picture": "izdelkiSlike/knjiga25.png",
+        "price": 24.99
       }
     ]
-  }
+}
